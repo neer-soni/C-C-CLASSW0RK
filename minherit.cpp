@@ -17,3 +17,16 @@ int main(){
 
     Derived d(10,20);
 }
+
+// 5 types of inheritance
+// 1. single inheritance    
+// 2. multilevel inheritance
+// 3. multiple inheritance  
+// 4. hierarchical inheritance
+// 5. hybrid inheritance     
+
+
+
+
+
+

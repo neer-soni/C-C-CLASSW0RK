@@ -36,7 +36,7 @@ public:
     }
 };
 int main()
-{
+{ 
 
     Manager u1;
     u1.showname("Neha");
